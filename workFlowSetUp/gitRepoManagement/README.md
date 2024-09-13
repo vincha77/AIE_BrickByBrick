@@ -34,7 +34,8 @@
 
 7. To save the local repo created earlier on to Github, go to your local repository and run the following commands:
         Step a: 
-        `git remote add origin https://github.com/<USERNAME>/<REPONAME>.git` 
+
+        `git remote add origin https://github.com/<USERNAME>/<REPONAME>.git`
         
         [Note that this format should be used with a minor change to update the repo using the personal access token]
         
@@ -51,6 +52,7 @@
 
 8. Other very useful git commands to remember.
         Setting up global configuration:
+
                 `git config --global user.email "<YOUR EMAIL ADDRESS>"`
 
                 `git config --global user.name "YOUR NAME`

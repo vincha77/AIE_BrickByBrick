@@ -13,11 +13,11 @@ Here are some of the topics covered in this repo.
 NOTE - I will do my best to keep this list and the links up to date, but you may find more content in this repo than
 just the ones listed below.  Please feel free to explore the repo and hope you find this useful!
 
-1.  [Setting Up and Managing a GitHub Repo](gitRepoManagement)
+1.  [Getting your workflow right - git/github, python environment, etc.](workFlowSetUp)
 
-2.  [Setting Up a Python Virtual Environment](AIE_BrickByBrick/pythonEnvironment)
+2.  [Explore various document loaders](documentLoaders)
 
-3.  [Explore various document loaders](AIE_BrickByBrick/documentLoaders)
+3.  [RAG Evaluation](ragEvaluation)
 
-4.  [Multi-agent RAG pipelines](AIE_BrickByBrick/multiagentExplorations)
+4.  [Agentic Systems including Multi-Agent Systems](agenticSystems)
 
