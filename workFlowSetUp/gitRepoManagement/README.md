@@ -33,19 +33,26 @@
 6. Make sure to copy and save the token in a secure place on your local machine.  You'll only see this token once on GitHub, so be sure to copy and save it right away!
 
 7. To save the local repo created earlier on to Github, go to your local repository and run the following commands:
-        Step a: `git remote add origin https://github.com/<USERNAME>/<REPONAME>.git` 
+        Step a: 
+        `git remote add origin https://github.com/<USERNAME>/<REPONAME>.git` 
+        
         [Note that this format should be used with a minor change to update the repo using the personal access token]
-        Instead, for SSH access, use `git remote add origin git@github.com:<USERNAME>/<REPONAME>.git`
+        
+        Instead, for SSH access, use 
+        `git remote add origin git@github.com:<USERNAME>/<REPONAME>.git`
 
-        Step b: `git branch -M main`
+        Step b: 
+        `git branch -M main`
 
-        Step c: `git push -u origin main`
+        Step c: 
+        `git push -u origin main`
 
    This sequence of steps will push changes from the local repository to the remote repository on GitHub; verify that all files are saved on github!!!
 
 8. Other very useful git commands to remember.
         Setting up global configuration:
                 `git config --global user.email "<YOUR EMAIL ADDRESS>"`
+
                 `git config --global user.name "YOUR NAME`
 
         There are several more git commands in the git section of the following page that you may find useful:
